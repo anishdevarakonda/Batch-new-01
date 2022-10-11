@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>images</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Volvo</label>
+    <navType>Standard</navType>
+    <tabs>Staff__c</tabs>
+    <tabs>Bookings__c</tabs>
+    <tabs>Employee_History__c</tabs>
+    <tabs>TimeSheet__c</tabs>
+    <tabs>Projects__c</tabs>
+    <tabs>Project_Assignment__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Volvo_UtilityBar</utilityBar>
+</CustomApplication>

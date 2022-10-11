@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#F5F7F4</headerColor>
+        <logo>myhr</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>MyHR</label>
+    <navType>Standard</navType>
+    <tabs>Employees__c</tabs>
+    <tabs>Employee_History__c</tabs>
+    <tabs>TimeSheet__c</tabs>
+    <tabs>Projects__c</tabs>
+    <tabs>Project_Assignment__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>MyHR_UtilityBar</utilityBar>
+</CustomApplication>
